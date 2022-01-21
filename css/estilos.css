@@ -2,5 +2,12 @@ body
 {
     color: blue;
     text-align-last: center;
+    font-family: Arial;
+}
+button
+{
+    border :1px solid #2e518b;
+    padding: 10px;
+    background-color: brown;
     font-family: fantasy;
 }
